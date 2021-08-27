@@ -18,7 +18,7 @@
 
         <lib.lombok.version>1.18.4</lib.lombok.version>
         <rest.assured.version>2.9.0</rest.assured.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <fasterxml.jackson.core.version>2.8.5</fasterxml.jackson.core.version>
 
     </properties>
